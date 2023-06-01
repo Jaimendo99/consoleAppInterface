@@ -1,0 +1,15 @@
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\bin\Debug\net6.0\modelosDesoftware.exe
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\bin\Debug\net6.0\modelosDesoftware.deps.json
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\bin\Debug\net6.0\modelosDesoftware.runtimeconfig.json
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\bin\Debug\net6.0\modelosDesoftware.dll
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\bin\Debug\net6.0\modelosDesoftware.pdb
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\obj\Debug\net6.0\modelosDesoftware.csproj.AssemblyReference.cache
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\obj\Debug\net6.0\modelosDesoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\obj\Debug\net6.0\modelosDesoftware.AssemblyInfoInputs.cache
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\obj\Debug\net6.0\modelosDesoftware.AssemblyInfo.cs
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\obj\Debug\net6.0\modelosDesoftware.csproj.CoreCompileInputs.cache
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\obj\Debug\net6.0\modelosDesoftware.dll
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\obj\Debug\net6.0\refint\modelosDesoftware.dll
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\obj\Debug\net6.0\modelosDesoftware.pdb
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\obj\Debug\net6.0\modelosDesoftware.genruntimeconfig.cache
+C:\Users\jaim_\Documents\Projects\modelosDesoftware\modelosDesoftware\obj\Debug\net6.0\ref\modelosDesoftware.dll
